@@ -1,6 +1,3 @@
-# Practice_Crawling
-Web Crawling 2021 Update. 
-
 # 크롤링 
 
 - List
